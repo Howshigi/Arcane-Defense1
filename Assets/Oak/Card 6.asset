@@ -19,9 +19,9 @@ MonoBehaviour:
   effects:
   - target: 0
     stat: 0
-    value: 0
-    isPercentage: 0
+    value: 25
+    isPercentage: 1
   - target: 0
     stat: 0
-    value: 0
-    isPercentage: 0
+    value: 25
+    isPercentage: 1

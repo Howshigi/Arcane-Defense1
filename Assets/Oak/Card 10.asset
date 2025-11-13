@@ -16,4 +16,12 @@ MonoBehaviour:
   description: 
   cardImage: {fileID: -5099292496197868168, guid: 21a8e84fe2ca9f74d8090d4b1b838eb9, type: 3}
   weight: 1
-  effects: []
+  effects:
+  - target: 0
+    stat: 0
+    value: 25
+    isPercentage: 1
+  - target: 0
+    stat: 0
+    value: 25
+    isPercentage: 1
